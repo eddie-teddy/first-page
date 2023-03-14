@@ -1,0 +1,36 @@
+    
+                header{
+                    display: flexbox;
+                }
+                
+                h1,h2{
+                    margin-top: 0;
+                    margin-bottom: 0;
+                    text-align: center;
+                    background-color: rgb(3, 92, 92);
+                    
+                }
+                .top-heading{
+                    font-family: Arial;
+                    font-size: xxx-large;
+                    color: rgb(220, 227, 241);
+                    
+                    
+                }
+    
+                .second-heading{
+                    color: rgb(32, 39, 43);
+                }
+    
+                .intro-paragraph{
+                    text-align: start;
+                    font-size: 18px;
+                    line-height: 20px;
+    
+                }
+    
+               body{
+                color: white;
+                background-image:url(90188.jpg);
+                background-size: cover;
+               }
